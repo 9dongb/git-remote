@@ -1,1 +1,1 @@
-print('gdgd')
+print(list('python'))
